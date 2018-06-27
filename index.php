@@ -5,6 +5,11 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
+	//this is new test created and using env buffered machine which 
+	//is now owned by testbuffer
+	
+	
+	//failed solution
 	
 }
 // delete condition
